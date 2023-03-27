@@ -1,5 +1,10 @@
 # Cpp Primer 学习
 
+本仓库在 [Cpp_Primer_Practic](https://github.com/applenob/Cpp_Primer_Practice) 的基础上，增加了个人认为有必要的知识点，同时修改了部分小错误
+
+> 本仓库使用 [Obsidian](https://obsidian.md/) 编辑`Markdown`文件，文件中包含`Obsidian`格式的双链引用，在`github`或其他`Markdown`编辑器中可能无法正常显示
+
+
 ## 简介
 
 《C++ Primer 中文版（第 5 版）》学习仓库，包括**笔记**和**课后练习答案**。
